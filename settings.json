@@ -2,7 +2,7 @@
     "prefs": {
         "public": {
             "char_limit": 2500,
-            "name_limit": 25,
+            "name_limit": 100,
             "godword": null,
             "runlevel": {
                 "godmode": 0,
@@ -62,7 +62,7 @@
                 "name": 0,
                 "pope": 3
             },
-            "room_max": 30,
+            "room_max": 300000000000000000000,
             "owner": null,
             "pitch": {
                 "max": 125,
